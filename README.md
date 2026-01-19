@@ -1,6 +1,6 @@
 # Google Play Store – App Performance Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 This project transforms Exploratory Data Analysis (EDA) insights into an interactive Business Intelligence dashboard using **Power BI**.
 
 The dashboard helps stakeholders understand:
@@ -11,12 +11,12 @@ The dashboard helps stakeholders understand:
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 How can Business Intelligence dashboards help stakeholders understand app performance, user preferences, and monetization strategies in the Google Play Store ecosystem?
 
 ---
 
-## 🗂 Dataset Details
+##  Dataset Details
 - Dataset: Google Play Store Apps
 - Source: Kaggle / Public Google Play Store Dataset
 - Records: ~9,600 apps
@@ -24,7 +24,7 @@ How can Business Intelligence dashboards help stakeholders understand app perfor
 
 ---
 
-## 📈 Dashboard Pages
+##  Dashboard Pages
 
 ### Page 1 – App Performance Overview
 - Total Apps
@@ -43,7 +43,7 @@ How can Business Intelligence dashboards help stakeholders understand app perfor
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 1. Smaller and medium-sized apps scale better.
 2. Free apps dominate adoption.
 3. Broader content ratings reach larger audiences.
@@ -51,7 +51,7 @@ How can Business Intelligence dashboards help stakeholders understand app perfor
 
 ---
 
-## 📎 Files Included
+##  Files Included
 - Power BI Dashboard (.pbix)
 - Dataset (.csv)
 - Documentation (PDF)
@@ -60,12 +60,12 @@ How can Business Intelligence dashboards help stakeholders understand app perfor
 
 ---
 
-## 🎥 Video Walkthrough
+##  Video Walkthrough
 See `video_link.txt`
 
 ---
 
-## 🚀 Tools Used
+##  Tools Used
 - Power BI
 - Python (EDA phase)
 - GitHub
