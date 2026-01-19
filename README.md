@@ -61,7 +61,7 @@ How can Business Intelligence dashboards help stakeholders understand app perfor
 ---
 
 ##  Video Walkthrough
-See `video_link.txt`
+[Watch on Google Drive](https://drive.google.com/file/d/1_86S5JWWkWz8MS-XRpUKjgQm7O_P7yvu/view?usp=sharing)
 
 ---
 
